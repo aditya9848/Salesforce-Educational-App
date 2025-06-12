@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Student Progress Table)">e296ec56834a221033fdbcb6feaad386</button>
+        <item_parameter display_value="Student Progress Table u_science">ae96ec56834a221033fdbcb6feaad384</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-12 09:30:33</sys_created_on>
+        <sys_id>e696ec56834a221033fdbcb6feaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ae96ec56834a221033fdbcb6feaad384</sys_name>
+        <sys_package display_value="Salesforce Educational App" source="x_1607504_salesedu">07f5ac92834a221033fdbcb6feaad3c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Salesforce Educational App">07f5ac92834a221033fdbcb6feaad3c2</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e696ec56834a221033fdbcb6feaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-12 09:30:33</sys_updated_on>
+        <ui_parameter display_value="Science">ee96ec56834a221033fdbcb6feaad387</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
