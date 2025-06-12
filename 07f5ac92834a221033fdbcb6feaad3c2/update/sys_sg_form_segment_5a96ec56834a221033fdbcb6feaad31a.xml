@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">5296ec56834a221033fdbcb6feaad319</embedded_screen>
+        <form display_value="Admission Form Screen">5e96ec56834a221033fdbcb6feaad318</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-12 09:30:32</sys_created_on>
+        <sys_id>5a96ec56834a221033fdbcb6feaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Salesforce Educational App" source="x_1607504_salesedu">07f5ac92834a221033fdbcb6feaad3c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Salesforce Educational App">07f5ac92834a221033fdbcb6feaad3c2</sys_scope>
+        <sys_update_name>sys_sg_form_segment_5a96ec56834a221033fdbcb6feaad31a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-12 09:30:32</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
